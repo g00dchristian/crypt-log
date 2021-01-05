@@ -53,6 +53,5 @@ class Minute_Data_Log():
 
 
 
-Minute_Data_Log(['BTC/USDT','ETH/USDT'],r"C:\Users\RP Trading\Desktop\Python Scripts\Minute Data Logs\minute_ticker_log.db")
-
+Minute_Data_Log(['BTC/USDT','ETH/USDT'],"/home/python_scripts/market_data/crypt-log/minute_ticker_log.db")
 #MAKE THE VOLUME CHECK AND THEN SEND REST TO LOG - BE SURE TO DIVIDE AND MULTIPLY UNIX BY 1000
