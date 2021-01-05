@@ -4,7 +4,7 @@ import datetime
 import ccxt
 from languageHandled import languageHandler
 from sql_minute_data import sql_data_pull, sql_log_minute
-import pyodbc 
+
 bn = ccxt.binance()
 
 
